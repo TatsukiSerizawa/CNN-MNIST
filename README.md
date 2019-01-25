@@ -28,6 +28,10 @@ https://qiita.com/niisan-tokyo/items/a94dbd3134219f19cab1
 
 http://cedro3.com/ai/ecg-anomaly/
 
+1次元時系列データをKerasでモデリングして分類
+
 ・メディカルAI専門コース オンライン講義資料 8.実践編: ディープラーニングを使ったモニタリングデータの時系列解析
 
 https://japan-medical-ai.github.io/medical-ai-course-materials/notebooks/Sequential_Data_Analysis_with_Deep_Learning.html
+
+上の文献の基サイト（ただしChainerでモデリングしている）
